@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600;900&display=swap');
 body {
     font-family: 'Poppins', sans-serif;
-    background: url('https://scontent.ftbs3-1.fna.fbcdn.net/v/t1.6435-9/219365146_100495265661945_1149008767220083486_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=BQ7CuaN1LrAAX9eB3NT&_nc_ht=scontent.ftbs3-1.fna&oh=bd189eb454c3379c008406589090b45d&oe=616E73D2') no-repeat center / cover;
+    background: url('https://github.com/avto502/simple-web/blob/main/bg.png') no-repeat center / cover;
     background-repeat: repeat-y;
 }
 
