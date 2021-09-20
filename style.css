@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600;900&display=swap');
 body {
     font-family: 'Poppins', sans-serif;
-    background: url('https://github.com/avto502/simple-web/blob/main/bg.png') no-repeat center / cover;
+    background: url('bg.png') no-repeat center / cover;
     background-repeat: repeat-y;
 }
 
